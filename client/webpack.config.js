@@ -23,12 +23,13 @@ module.exports = () => {
         title: 'jate',
       }),
       new InjectManifest({
-        swSrc: './src/sw.js',
-        swDest: 'service-worker.js',
+        swSrc: './src-sw.js',
+        swDest: 'src-sw.js',
       }), 
       new WebpackPwaManifest({
         name: "Jate Text Editor",
         short_name: "Jate",
+        description: "Takes notes with JS syntak.",
         background_color: '#ffffff',
         start_url: './',
         publicPath: './',
