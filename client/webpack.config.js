@@ -27,12 +27,14 @@ module.exports = () => {
         swDest: 'src-sw.js',
       }), 
       new WebpackPwaManifest({
+        inject: true,
+        fingerprints: false,
         name: "Jate Text Editor",
         short_name: "Jate",
         description: "Takes notes with JS syntak.",
         background_color: '#ffffff',
-        start_url: './',
-        publicPath: './',
+        start_url: '/',
+        publicPath: '/',
         icons: [
           {
           src: path.resolve('src/images/logo.png'),

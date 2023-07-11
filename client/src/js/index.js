@@ -27,7 +27,7 @@ if (typeof editor === 'undefined') {
 if ('serviceWorker' in navigator) {
   // register workbox service worker
   window.addEventListener("load", () => {
-    const workboxSW = new Workbox('service-worker.js');
+    const workboxSW = new Workbox('/src-sw.js');
     workboxSW.register();
   })
 } else {
