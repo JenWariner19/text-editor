@@ -30,4 +30,4 @@ Licensed under the [MIT license](https://opensource.org/license/mit/)
 
 ## Questions
 You can view my GitHub repository here: [JenWariner19/text-editor](https://github.com/JenWariner19/text-editor)<br>
-If you have any questions and would like to contact me, you can email me at: [jenniferwariner@yahoo.com](mailto:jenniferwariner@yahoo.com)# tech-blog
+If you have any questions and would like to contact me, you can email me at: [jenniferwariner@yahoo.com](mailto:jenniferwariner@yahoo.com)
