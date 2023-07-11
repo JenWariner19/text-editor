@@ -13,7 +13,7 @@ A text editor that runs in the browser. The app is a single-page application tha
 6. [Questions](#questions)
 
 ## Installation
-You can view the app [here](https://jw-tech-blog.herokuapp.com/).
+You can view the app [here](https://fathomless-spire-01203-452b78aee54c.herokuapp.com/).
 
 ## Usage
 Open the app to add notes to the text editor..<br>
